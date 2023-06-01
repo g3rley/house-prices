@@ -1,7 +1,7 @@
 # 🏘️ House Prices - Advanced Regression Techniques
 ## _Predict sales prices and practice feature engineering, RFs, and gradient boosting_
 
-![House Prices](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
+![image](https://github.com/g3rley/house-prices/assets/96620547/9a40bb54-503c-4cea-aa9e-bdbfe75c04fd)
 
 ## 📝 Description
 
